@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Flutter Note](https://github.com/MukalDadhwal/flutter-note)
 
-- 🌱 I’m currently learning **GCP, C, Javascript**
+- 🌱 I’m currently learning **javascript and html/css**
 
 - 🤝 I’m looking for help with **Machine Learning**
 
