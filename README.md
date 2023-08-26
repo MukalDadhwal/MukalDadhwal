@@ -1,7 +1,7 @@
 <!-- <h1 align="center">Hi 👋, I'm Mukal Dadhwal</h1>
 <h3 align="center">A passionate programmer from India</h3>
 -->
-<img align="center" alt="header" src="github-header-image.png">
+<img height="160px" width="100%" align="center" alt="header" src="github-header-image.png">
 <br>
 
 <h2>About me</h2>
@@ -71,6 +71,9 @@ mindmap
       Git&Github
       Docker
       Bash
+    Web3
+      Tezos blockchain/pytezos
+      Ethereum/solidity
 ```
 
 <h2>My Stats</h2>
