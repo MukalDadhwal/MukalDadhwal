@@ -46,7 +46,7 @@ In a nutshell, I'm a passionate programmer with a love for technology. I special
     /></a>
 </span>
 
-<h2>Skillset Mindmap</h2>
+<h2>Skillset Graph</h2>
 
 ```mermaid
 mindmap
