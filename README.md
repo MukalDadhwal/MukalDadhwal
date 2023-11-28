@@ -48,32 +48,6 @@ In a nutshell, I'm a passionate programmer with a love for technology. I special
 
 <h2>Skillset Graph</h2>
 
-```mermaid
-mindmap
-  root((Me))
-    Languages
-      Python
-      Java
-      Javascript
-      Dart
-      C
-    Frameworks/Libraries
-      Flutter
-      FastAPI
-      Tkinter
-    Databases
-      MySQL
-      Firebase
-      Realm
-    Tools
-      Git&Github
-      Docker
-      Bash
-    Web3
-      Tezos blockchain/pytezos
-      Ethereum/solidity
-```
-
 <h2>My Stats</h2>
 
 [![Mukal's GitHub stats](https://github-readme-stats.vercel.app/api?username=MukalDadhwal&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
