@@ -1,7 +1,4 @@
 
-<img align="center" alt="header" src="github-header-image.png">
-<br>
-
 <h2>About me</h2>
 
 In a nutshell, I'm a passionate programmer with a love for technology. I specialize in crafting awesome mobile apps using Flutter and weaving magic with Python. My ultimate goal? To build software that makes a real difference in the lives of millions. Join me as I explore, learn, and create a brighter tech-infused future for all.
