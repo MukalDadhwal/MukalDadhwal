@@ -43,8 +43,6 @@ In a nutshell, I'm a passionate programmer with a love for technology. I special
     /></a>
 </span>
 
-<h2>Skillset Graph</h2>
-
 <h2>My Stats</h2>
 
 [![Mukal's GitHub stats](https://github-readme-stats.vercel.app/api?username=MukalDadhwal&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
