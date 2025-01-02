@@ -1,7 +1,7 @@
 
 <h2>About me</h2>
 
-In a nutshell, I'm a passionate programmer with a love for technology. I specialize in crafting awesome mobile apps using Flutter and weaving magic with Python. My ultimate goal? To build software that makes a real difference in the lives of millions. Join me as I explore, learn, and create a brighter tech-infused future for all.
+In a nutshell, I'm a programmer who likes problem solving and building stuff
 
 <h2>You can find me on</h2>
 
@@ -26,11 +26,11 @@ In a nutshell, I'm a passionate programmer with a love for technology. I special
         src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"
         alt="Medium Badge"
     /></a>
-    <a href="https://leetcode.com/Mkk8/" target="_blank">
+<!--     <a href="https://leetcode.com/Mkk8/" target="_blank">
       <img
         src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"
         alt="LeetCode badge"
-    /></a>
+    /></a> -->
     <a href="https://codeforces.com/profile/CodingTrain" target="_blank">
       <img
         src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"
@@ -43,8 +43,6 @@ In a nutshell, I'm a passionate programmer with a love for technology. I special
     /></a>
 </span>
 
-<h2>My Stats</h2>
-
-[![Mukal's GitHub stats](https://github-readme-stats.vercel.app/api?username=MukalDadhwal&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+<h2>languages</h2>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MukalDadhwal&theme=cobalt)
