@@ -92,6 +92,9 @@
 ## 📫 Connect with Me
 
 <div align="center" style="margin-top:10px;">
+  <a href="https://drive.google.com/file/d/1JX2Sf7iV31TUz-9dpxgSGyWg93NCRu6s/view?usp=sharing" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/Resume-Download-FF5722?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
   <a href="https://leetcode.com/u/Mkk8/" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LeetCode-Mkk8-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
