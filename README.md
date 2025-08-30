@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋 Mukal Dadhwal</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Backend%20Engineer-blue?style=for-the-badge" />
-  <a href="https://type.link/mukaldadhwal" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Portfolio-type.link/mukaldadhwal-green?style=for-the-badge" />
+  <a href="https://mukal.top/" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Portfolio-mukal.top-green?style=for-the-badge" />
   </a>
 </p>
 
@@ -107,8 +107,8 @@
   <a href="https://linkedin.com/in/mukal-dadhwal" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LinkedIn-mukal--dadhwal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://type.link/mukaldadhwal" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Portfolio-type.link/mukaldadhwal-43A047?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <a href="https://mukal.top/" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Portfolio-mukal.top-43A047?style=for-the-badge" />
   </a>
 </div>
 
